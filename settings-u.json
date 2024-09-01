@@ -1,0 +1,17 @@
+{
+    "BinanceKeys": {
+        "API_KEY":"RtSksLPDAn4mLzKY1D371vEBAJhtXopU2zeAMlSn18Ub2hk6gMF8n5jKUGMqpckE",
+        "API_SECRET":"p5jN3x97VtzCKi7YpvwNbcrh6flzHmJL8LKUMEWzY3XOhqKFCmdeCj2srlzD2MM3"
+        },
+    "options":{
+        "defaultType":"future"
+        },
+    "mailInfo":{
+        "mailAddress":"fatideolmasa@outlook.com",
+        "password": "963001236Erdfth",
+        "sendTo": "milyardolarder@outlook.com",
+        "sendToException": "fatideolmasa@outlook.com",
+        "smtpServer": "smtp-mail.outlook.com",
+        "port": 587
+    }
+}

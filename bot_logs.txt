@@ -1,0 +1,739 @@
+[2023-09-02 01:05:32] POZ�SYON ARANIYOR...
+[2023-09-02 01:05:46] POZ�SYON ARANIYOR...
+[2023-09-02 17:26:40] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-02 17:27:01] ADAUSDT USDT paritesinde pozisyon açıldı! *SHORT* 
+ fiyat: -148.422
+[2023-09-02 17:27:01]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -15.84378000
+1  XRPUSDT          1949.1  ...   0.512974870453      -29.49072111
+2  ADAUSDT            -580  ...           0.2559       -0.05800000
+3  ETHUSDT           0.591  ...          1690.79      -33.20829000
+4  RSRUSDT          572249  ...  0.0017475420682      -21.60239975
+5  BTCUSDT           0.075  ...          26493.3      -51.75000000
+
+[6 rows x 5 columns]
+[2023-09-02 20:08:15] name 'pos_type' is not defined
+[2023-09-02 20:08:47] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 20:35:44] APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+[2023-09-02 20:38:40] APIError(code=-1120): Invalid interval.
+[2023-09-02 21:35:48] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:36:11] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:36:31] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:36:52] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:37:15] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:37:38] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:37:38] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:37:57] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:37:57] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:38:15] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:38:16] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:38:34] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:38:34] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:38:55] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:38:55] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:39:16] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:39:16] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:39:35] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:39:35] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:39:53] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:39:53] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:40:12] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:40:12] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:40:30] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:40:31] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:40:52] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:40:52] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:41:13] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:41:13] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:41:33] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:41:34] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:41:56] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:41:56] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:42:19] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:42:19] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:42:42] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:42:43] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:43:03] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:43:03] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:43:24] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:43:25] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:43:48] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:43:48] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:44:11] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:44:12] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:44:35] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:44:35] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:44:58] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:44:58] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:48:05] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:48:06] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:48:26] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:48:27] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:48:49] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:48:50] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:49:10] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:49:10] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:49:31] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:49:31] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:49:52] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:49:52] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:50:13] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:50:13] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:50:36] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:50:36] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:51:00] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:51:00] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:51:23] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:51:23] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:51:46] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:51:46] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:52:09] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:52:10] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:52:32] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:52:33] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:52:53] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:52:54] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:53:21] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:53:23] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:53:46] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:53:46] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:54:09] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:54:09] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:54:30] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:54:30] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:54:51] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:54:51] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:55:12] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:55:12] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:55:35] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:55:36] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:55:59] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:55:59] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:56:22] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:56:22] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 21:56:45] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 21:56:45] index 0 is out of bounds for axis 0 with size 0
+[2023-09-02 22:45:15] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-02 22:45:33] ADAUSDT USDT paritesinde pozisyon açıldı! *SHORT* 
+ fiyat: -129.3357
+[2023-09-02 22:45:33]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -12.38230694
+1  XRPUSDT          1949.1  ...   0.512974870453      -31.59091534
+2  ADAUSDT            -507  ...           0.2551       -0.06079437
+3  ETHUSDT           0.591  ...          1690.79      -34.37847000
+4  RSRUSDT          572249  ...  0.0017475420682      -38.27201312
+5  BTCUSDT           0.075  ...          26493.3      -50.69801544
+
+[6 rows x 5 columns]
+[2023-09-02 22:45:37] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-02 23:56:25] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-02 23:56:56] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:07:17] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:07:50] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:08:09] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:08:27] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:08:46] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:09:04] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:09:23] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:09:39] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:09:55] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:10:13] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:10:32] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:10:51] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:11:09] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:11:26] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:11:44] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:12:03] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:12:22] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:12:40] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:12:58] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:13:17] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:13:35] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:13:54] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:14:10] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:14:28] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:14:47] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:15:05] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:15:23] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:15:42] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:16:00] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:16:16] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:16:47] HTTPSConnectionPool(host='fapi.binance.com', port=443): Read timed out. (read timeout=10)
+[2023-09-03 00:17:05] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:17:21] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:17:38] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:17:56] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 00:30:07] 
+[2023-09-03 00:30:23] name 'alert' is not defined
+[2023-09-03 00:32:41] name 'alert' is not defined
+[2023-09-03 00:35:26] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 00:35:42]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -11.43588690
+1  XRPUSDT          1949.1  ...   0.512974870453      -29.23911179
+2  ADAUSDT            -507  ...           0.2551       -0.01858155
+3  ETHUSDT           0.591  ...          1690.79      -32.73163104
+4  RSRUSDT          572249  ...  0.0017475420682      -27.92575120
+5  BTCUSDT           0.075  ...          26493.3      -48.32891852
+
+[6 rows x 5 columns]
+[2023-09-03 00:35:51] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 00:38:43] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 00:38:43]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -11.59581000
+1  XRPUSDT          1949.1  ...   0.512974870453      -28.99260911
+2  ADAUSDT            -507  ...           0.2551        0.07269366
+3  ETHUSDT           0.591  ...          1690.79      -32.96598000
+4  RSRUSDT          572249  ...  0.0017475420682      -28.92146446
+5  BTCUSDT           0.075  ...          26493.3      -48.58500000
+
+[6 rows x 5 columns]
+[2023-09-03 00:38:48] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 00:47:02] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 00:47:04]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -10.00000013
+1  XRPUSDT          1949.1  ...   0.512974870453      -28.53240711
+2  ADAUSDT            -507  ...           0.2551        0.17384016
+3  ETHUSDT           0.591  ...          1690.79      -31.65599234
+4  RSRUSDT          572249  ...  0.0017475420682      -27.89141626
+5  BTCUSDT           0.075  ...          26493.3      -47.52337676
+
+[6 rows x 5 columns]
+[2023-09-03 00:47:10] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 00:48:23] 
+[2023-09-03 00:51:07] 
+[2023-09-03 01:05:13] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 01:05:13]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -11.13657000
+1  XRPUSDT          1949.1  ...   0.512974870453      -29.56490385
+2  ADAUSDT            -507  ...           0.2551        0.15210000
+3  ETHUSDT           0.591  ...          1690.79      -32.47545000
+4  RSRUSDT          572249  ...  0.0017475420682      -28.38927289
+5  BTCUSDT           0.075  ...          26493.3      -49.22250000
+
+[6 rows x 5 columns]
+[2023-09-03 01:05:16] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 01:11:40] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:12:28] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:12:45] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:15:00] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:19:34] 
+[2023-09-03 01:20:05] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:21:29] 
+[2023-09-03 01:21:45] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:22:02] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:22:39] APIError(code=-1022): Signature for this request is not valid.
+[2023-09-03 01:23:15] APIError(code=-1022): Signature for this request is not valid.
+[2023-09-03 01:23:31] APIError(code=-1022): Signature for this request is not valid.
+[2023-09-03 01:25:21] 
+[2023-09-03 01:26:32] 
+[2023-09-03 01:26:49] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:27:04] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 01:27:04]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -10.44771000
+1  XRPUSDT          1949.1  ...   0.512974870453      -27.62823911
+2  ADAUSDT            -507  ...           0.2551        0.05070000
+3  ETHUSDT           0.591  ...          1690.79      -32.58622010
+4  RSRUSDT          572249  ...  0.0017475420682      -29.49371346
+5  BTCUSDT           0.075  ...          26493.3      -49.26779632
+
+[6 rows x 5 columns]
+[2023-09-03 01:27:08] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 01:29:09] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 01:29:13]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -10.44771000
+1  XRPUSDT          1949.1  ...   0.512974870453      -27.54242024
+2  ADAUSDT            -507  ...           0.2551        0.05070000
+3  ETHUSDT           0.591  ...          1690.79      -32.48727000
+4  RSRUSDT          572249  ...  0.0017475420682      -30.06596246
+5  BTCUSDT           0.075  ...          26493.3      -49.21500000
+
+[6 rows x 5 columns]
+[2023-09-03 01:29:18] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 01:30:19] 
+[2023-09-03 01:32:06] 
+[2023-09-03 01:32:22] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:32:39] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:32:55] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-03 01:36:29] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -129.3357
+[2023-09-03 01:36:29]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -10.70599105
+1  XRPUSDT          1949.1  ...   0.512974870453      -27.43332911
+2  ADAUSDT            -507  ...           0.2551        0.00000000
+3  ETHUSDT           0.591  ...          1690.79      -32.58871403
+4  RSRUSDT          572249  ...  0.0017475420682      -28.45222028
+5  BTCUSDT           0.075  ...          26493.3      -48.89250000
+
+[6 rows x 5 columns]
+[2023-09-03 01:36:32] (554, b'5.2.0 STOREDRV.Submission.Exception:OutboundSpamException; Failed to process message due to a permanent exception with message [BeginDiagnosticData]WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade. OutboundSpamException: WASCL UserAction verdict is not None. Actual verdict is RefuseQuota, ShowTierUpgrade.[EndDiagnosticData] [Hostname=AM8PR10MB4052.EURPRD10.PROD.OUTLOOK.COM]')
+[2023-09-03 13:36:25] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 88.234.233.174
+[2023-09-04 02:42:55] 
+[2023-09-04 02:48:48] 
+[2023-09-04 02:55:37] 
+[2023-09-04 02:59:45] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 24.802899999999998
+[2023-09-04 02:59:47]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -16.51131863
+1  XRPUSDT          1949.1  ...   0.512974870453      -16.51836911
+2  ADAUSDT              97  ...           0.2557        0.00000000
+3  ETHUSDT           0.591  ...          1690.79      -32.96007000
+4  RSRUSDT          572249  ...  0.0017475420682      -27.74835401
+5  BTCUSDT           0.075  ...          26493.3      -39.90750000
+
+[6 rows x 5 columns]
+[2023-09-04 03:00:14] 
+[2023-09-05 01:07:08] 
+[2023-09-05 01:12:20] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-05 01:12:21]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -23.26969722
+1  XRPUSDT          1949.1  ...   0.512974870453      -13.99009405
+2  ADAUSDT            -544  ...           0.2568        1.27124640
+3  ETHUSDT           0.591  ...          1690.79      -40.96097183
+4  RSRUSDT          572249  ...  0.0017475420682      -21.05876320
+5  BTCUSDT           0.075  ...          26493.3      -57.98998265
+
+[6 rows x 5 columns]
+[2023-09-05 01:12:33] (535, b'5.7.139 Authentication unsuccessful, account locked. Contact your administrator. [VI1P195CA0095.EURP195.PROD.OUTLOOK.COM 2023-09-04T22:12:34.576Z 08DBABA9494F8EDB]')
+[2023-09-05 01:13:55] 
+[2023-09-05 01:17:17] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-05 01:17:18]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -22.84719000
+1  XRPUSDT          1949.1  ...   0.512974870453      -13.00819594
+2  ADAUSDT            -544  ...           0.2568        1.03360000
+3  ETHUSDT           0.591  ...          1690.79      -39.85113000
+4  RSRUSDT          572249  ...  0.0017475420682      -18.87849451
+5  BTCUSDT           0.075  ...          26493.3      -55.12500000
+
+[6 rows x 5 columns]
+[2023-09-05 01:17:30] (535, b'5.7.139 Authentication unsuccessful, account locked. Contact your administrator. [VI1PR04CA0047.eurprd04.prod.outlook.com 2023-09-04T22:17:30.854Z 08DBACC266CC4713]')
+[2023-09-05 01:22:26] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-05 01:22:26]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -24.56934000
+1  XRPUSDT          1949.1  ...   0.512974870453      -14.76417911
+2  ADAUSDT            -544  ...           0.2568        1.41440000
+3  ETHUSDT           0.591  ...          1690.79      -41.77188000
+4  RSRUSDT          572249  ...  0.0017475420682      -21.04731822
+5  BTCUSDT           0.075  ...          26493.3      -58.16794264
+
+[6 rows x 5 columns]
+[2023-09-05 01:22:35] (535, b'5.7.139 Authentication unsuccessful, account locked. Contact your administrator. [VI1PR04CA0069.eurprd04.prod.outlook.com 2023-09-04T22:22:36.673Z 08DBACB65E30C1EB]')
+[2023-09-05 01:24:30] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-05 01:24:30]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -24.68415000
+1  XRPUSDT          1949.1  ...   0.512974870453      -15.26689098
+2  ADAUSDT            -544  ...           0.2568        1.46273440
+3  ETHUSDT           0.591  ...          1690.79      -42.35697000
+4  RSRUSDT          572249  ...  0.0017475420682      -22.05447646
+5  BTCUSDT           0.075  ...          26493.3      -58.52705623
+
+[6 rows x 5 columns]
+[2023-09-05 01:24:40] (535, b'5.7.139 Authentication unsuccessful, account locked. Contact your administrator. [VI1PR09CA0110.eurprd09.prod.outlook.com 2023-09-04T22:24:41.606Z 08DBACE91C2D2B6E]')
+[2023-09-05 01:24:49] 
+[2023-09-05 01:25:36] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-05 01:25:37]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -24.45453000
+1  XRPUSDT          1949.1  ...   0.512974870453      -14.56926911
+2  ADAUSDT            -544  ...           0.2568        1.40993920
+3  ETHUSDT           0.591  ...          1690.79      -42.08511000
+4  RSRUSDT          572249  ...  0.0017475420682      -21.48222746
+5  BTCUSDT           0.075  ...          26493.3      -57.77250000
+
+[6 rows x 5 columns]
+[2023-09-07 23:21:36] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1986.9975
+[2023-09-07 23:21:37]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -28.16480424
+1  XRPUSDT          1949.1  ...   0.512974870453      -23.73003911
+2  ADAUSDT            -544  ...           0.2568        0.54400000
+3  ETHUSDT           0.591  ...          1690.79      -32.72521909
+4  RSRUSDT          572249  ...  0.0017475420682       39.29061634
+5  BTCUSDT           0.075  ...          26493.3      -46.57183055
+
+[6 rows x 5 columns]
+[2023-09-07 23:24:59] 
+[2023-09-07 23:33:38] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -139.6992
+[2023-09-07 23:33:38]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -27.09516000
+1  XRPUSDT          1949.1  ...   0.512974870453      -23.53512911
+2  ADAUSDT            -544  ...           0.2568        0.53860352
+3  ETHUSDT           0.591  ...          1690.79      -32.42817000
+4  RSRUSDT          572249  ...  0.0017475420682       41.46516254
+5  BTCUSDT           0.075  ...          26493.3      -43.61250000
+
+[6 rows x 5 columns]
+[2023-09-08 06:26:54] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1986.9975
+[2023-09-08 06:26:54]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -20.08255635
+1  XRPUSDT          1949.1  ...   0.512974870453      -16.51836911
+2  ADAUSDT            -544  ...           0.2568       -0.27200000
+3  ETHUSDT           0.591  ...          1690.79      -26.77821000
+4  RSRUSDT          572249  ...  0.0017475420682       65.07615628
+5  BTCUSDT           0.075  ...          26493.3      -19.98750000
+
+[6 rows x 5 columns]
+[2023-09-08 06:30:13] 
+[2023-09-08 06:30:42] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1986.9975
+[2023-09-08 06:30:42]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -20.32137000
+1  XRPUSDT          1949.1  ...   0.512974870453      -16.90818911
+2  ADAUSDT            -544  ...           0.2568       -0.27200000
+3  ETHUSDT           0.591  ...          1690.79      -26.81958000
+4  RSRUSDT          572249  ...  0.0017475420682       63.31935185
+5  BTCUSDT           0.075  ...          26493.3      -20.19000000
+
+[6 rows x 5 columns]
+[2023-09-08 06:32:09] 
+[2023-09-08 06:46:24] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1986.9975
+[2023-09-08 06:46:25]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -20.66580000
+1  XRPUSDT          1949.1  ...   0.512974870453      -16.90818911
+2  ADAUSDT            -544  ...           0.2568       -0.32640000
+3  ETHUSDT           0.591  ...          1690.79      -26.48919477
+4  RSRUSDT          572249  ...  0.0017475420682       63.99460567
+5  BTCUSDT           0.075  ...          26493.3      -18.20334285
+
+[6 rows x 5 columns]
+[2023-09-08 16:10:14] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.205.255
+[2023-09-08 16:12:13] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.205.255
+[2023-09-08 16:12:27] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.205.255
+[2023-09-08 16:16:14] APIError(code=-1121): Invalid symbol.
+[2023-09-08 16:17:49] APIError(code=-1121): Invalid symbol.
+[2023-09-08 16:18:04] APIError(code=-1121): Invalid symbol.
+[2023-09-08 16:20:20] 
+[2023-09-08 16:21:02] 
+[2023-09-08 16:23:01] 
+[2023-09-08 16:25:07] 
+[2023-09-08 16:26:53] 
+[2023-09-09 03:02:20] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 176.54.64.116
+[2023-09-09 03:13:18] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1986.9975
+[2023-09-09 03:13:19]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -32.42496867
+1  XRPUSDT          1949.1  ...   0.512974870453      -18.07764911
+2  ETHUSDT           0.591  ...          1690.79      -32.59956000
+3  RSRUSDT          572249  ...  0.0017475420682       46.61540354
+4  BTCUSDT           0.075  ...          26493.3      -45.53895357
+
+[5 rows x 5 columns]
+[2023-09-09 03:17:04] 
+[2023-09-11 01:34:18] can only concatenate str (not "bool") to str
+[2023-09-11 03:31:18] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 03:50:13] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 04:41:12] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 04:43:09] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 08:45:19] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 09:04:11] APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+[2023-09-11 09:09:42] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: [87.756]
+[2023-09-11 09:09:42]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -43.16268345
+1  XRPUSDT          1949.1  ...   0.512974870453      -35.98364099
+2  ADAUSDT             355  ...           0.2472        0.30112520
+3  ETHUSDT           0.591  ...          1690.79      -43.95341396
+4  RSRUSDT          572249  ...  0.0017475420682        8.29188801
+5  BTCUSDT           0.075  ...          26493.3      -47.64000000
+
+[6 rows x 5 columns]
+[2023-09-11 09:13:44] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 355.0
+[2023-09-11 09:13:44]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -43.39818000
+1  XRPUSDT          1949.1  ...   0.512974870453      -36.42885441
+2  ADAUSDT             355  ...           0.2472        0.32384875
+3  ETHUSDT           0.591  ...          1690.79      -44.38410000
+4  RSRUSDT          572249  ...  0.0017475420682        8.27472054
+5  BTCUSDT           0.075  ...          26493.3      -47.85640975
+
+[6 rows x 5 columns]
+[2023-09-11 09:19:27] ADAUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 355.0
+[2023-09-11 09:19:27]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -43.97223000
+1  XRPUSDT          1949.1  ...   0.512974870453      -37.46713998
+2  ADAUSDT             355  ...           0.2472        0.24850000
+3  ETHUSDT           0.591  ...          1690.79      -44.47744671
+4  RSRUSDT          572249  ...  0.0017475420682        8.24038560
+5  BTCUSDT           0.075  ...          26493.3      -47.88111140
+
+[6 rows x 5 columns]
+[2023-09-11 09:20:31] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 0.075
+[2023-09-11 09:20:31]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -44.08704000
+1  XRPUSDT          1949.1  ...   0.512974870453      -37.48707928
+2  ADAUSDT             355  ...           0.2472        0.25802465
+3  ETHUSDT           0.591  ...          1690.79      -44.49048000
+4  RSRUSDT          572249  ...  0.0017475420682        8.02865347
+5  BTCUSDT           0.075  ...          26493.3      -47.77500000
+
+[6 rows x 5 columns]
+[2023-09-11 09:23:29] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 0.075
+[2023-09-11 09:23:29]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -43.85742000
+1  XRPUSDT          1949.1  ...   0.512974870453      -37.87604167
+2  ADAUSDT             355  ...           0.2472        0.24850000
+3  ETHUSDT           0.591  ...          1690.79      -44.62641000
+4  RSRUSDT          572249  ...  0.0017475420682        6.60375346
+5  BTCUSDT           0.075  ...          26493.3      -48.43500000
+
+[6 rows x 5 columns]
+[2023-09-11 09:26:27] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 0.075
+[2023-09-11 09:26:27]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -43.96098952
+1  XRPUSDT          1949.1  ...   0.512974870453      -37.56864911
+2  ADAUSDT             355  ...           0.2472        0.24850000
+3  ETHUSDT           0.591  ...          1690.79      -44.72097000
+4  RSRUSDT          572249  ...  0.0017475420682        7.13022254
+5  BTCUSDT           0.075  ...          26493.3      -48.06000000
+
+[6 rows x 5 columns]
+[2023-09-11 09:56:41] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 0.075
+[2023-09-11 09:56:41]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -44.31666000
+1  XRPUSDT          1949.1  ...   0.512974870453      -39.32283911
+2  ADAUSDT             355  ...           0.2472        0.10650000
+3  ETHUSDT           0.591  ...          1690.79      -44.86281000
+4  RSRUSDT          572249  ...  0.0017475420682        4.26897754
+5  BTCUSDT           0.075  ...          26493.3      -49.85250000
+
+[6 rows x 5 columns]
+[2023-09-11 17:51:26] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 0.075
+[2023-09-11 17:51:26]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -69.10750557
+1  XRPUSDT          1949.1  ...   0.512974870453      -81.39147285
+2  ADAUSDT             346  ...           0.2438       -0.62280000
+3  ETHUSDT           0.591  ...          1690.79      -80.59467000
+4  RSRUSDT          572249  ...  0.0017475420682      -31.78270946
+5  BTCUSDT           0.075  ...          25835.1      -54.77250000
+
+[6 rows x 5 columns]
+[2023-09-11 18:20:25] only size-1 arrays can be converted to Python scalars
+[2023-09-11 18:22:29] only size-1 arrays can be converted to Python scalars
+[2023-09-11 18:24:14] 
+[2023-09-11 18:25:24] 
+[2023-09-13 00:02:32] 
+[2023-09-13 21:19:56] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1599.5785999999998 kullanici:  Fatih
+[2023-09-13 21:19:56]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -41.67603000
+1  XRPUSDT          1949.1  ...   0.512974870453      -61.15275911
+2  ETHUSDT           0.591  ...          1690.79      -53.04409484
+3  RSRUSDT          572249  ...  0.0017475420682       48.37793046
+4  BTCUSDT           0.061  ...          26222.6       -5.04470000
+
+[5 rows x 5 columns] Fatih
+[2023-09-13 21:20:26] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1599.5785999999998 kullanici:  Fatih
+[2023-09-13 21:20:26]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -41.76012855
+1  XRPUSDT          1949.1  ...   0.512974870453      -61.11720753
+2  ETHUSDT           0.591  ...          1690.79      -53.02481897
+3  RSRUSDT          572249  ...  0.0017475420682       49.58537585
+4  BTCUSDT           0.061  ...          26222.6       -5.08452015
+
+[5 rows x 5 columns] Fatih
+[2023-09-13 21:21:18] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1599.5785999999998 kullanici:  Fatih
+[2023-09-13 21:21:18]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -42.36941064
+1  XRPUSDT          1949.1  ...   0.512974870453      -61.54257911
+2  ETHUSDT           0.591  ...          1690.79      -53.52450947
+3  RSRUSDT          572249  ...  0.0017475420682       49.32786380
+4  BTCUSDT           0.061  ...          26222.6       -6.32932022
+
+[5 rows x 5 columns] Fatih
+[2023-09-13 21:21:41] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: 1599.5785999999998 kullanici:  Fatih
+[2023-09-13 21:21:41]     Symbol Position Amount  ...      Entry Price Unrealized Profit
+0  LTCUSDT          11.481  ...            65.32      -42.38484880
+1  XRPUSDT          1949.1  ...   0.512974870453      -61.67593653
+2  ETHUSDT           0.591  ...          1690.79      -53.50323000
+3  RSRUSDT          572249  ...  0.0017475420682       49.04173930
+4  BTCUSDT           0.061  ...          26222.6       -6.21806382
+
+[5 rows x 5 columns] Fatih
+[2023-09-13 21:24:39] index 0 is out of bounds for axis 0 with size 0 Fatih
+[2023-09-13 21:24:54] index 0 is out of bounds for axis 0 with size 0 Fatih
+[2023-09-13 21:25:10] index 0 is out of bounds for axis 0 with size 0 Fatih
+[2023-09-13 21:28:31]  Fatih
+[2023-09-13 21:30:33]  Fatih
+[2023-09-13 21:31:13] ALGOUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -9.98412 kullanici:  Fatih
+[2023-09-13 21:31:14]      Symbol Position Amount  ...      Entry Price Unrealized Profit
+0   LTCUSDT          11.481  ...            65.32      -43.71128960
+1  ALGOUSDT          -110.2  ...           0.0906        0.01102000
+2   XRPUSDT          1949.1  ...   0.512974870453      -62.71203911
+3   ETHUSDT           0.591  ...          1690.79      -54.10587617
+4   RSRUSDT          572249  ...  0.0017475420682       46.92441800
+5   BTCUSDT           0.061  ...          26222.6       -6.97519638
+
+[6 rows x 5 columns] Fatih
+[2023-09-17 21:18:07] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -3024.4314 kullanici:  Fatih
+[2023-09-17 21:18:07]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.114           -3024.4314     26530.1        3.67215839 Fatih
+[2023-09-17 21:24:34]  Fatih
+[2023-09-17 21:24:34] 0 Fatih
+[2023-09-17 21:24:34] 0 Fatih
+[2023-09-17 21:25:15]  Fatih
+[2023-09-17 21:25:15] 0 Fatih
+[2023-09-17 21:25:15] 0 Fatih
+[2023-09-17 21:26:46]  Fatih
+[2023-09-17 21:26:46] 0 Fatih
+[2023-09-17 21:26:46] 0 Fatih
+[2023-09-17 21:59:35]  Fatih
+[2023-09-17 21:59:35] 0 Fatih
+[2023-09-17 21:59:35] 0 Fatih
+[2023-09-17 21:59:55] name 'strat' is not defined Fatih
+[2023-09-17 21:59:55] 0 Fatih
+[2023-09-17 21:59:55] 0 Fatih
+[2023-09-17 22:00:41] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -3024.4314 kullanici:  Fatih
+[2023-09-17 22:00:41]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.114           -3024.4314     26530.1        4.72165386 Fatih
+[2023-09-17 22:02:13]  Fatih
+[2023-09-17 22:02:13] 0 Fatih
+[2023-09-17 22:02:13] 0 Fatih
+[2023-09-17 22:11:28]  Fatih
+[2023-09-17 22:11:28] 0 Fatih
+[2023-09-17 22:11:28] 0 Fatih
+[2023-09-17 22:19:44] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -3024.4314 kullanici:  Fatih
+[2023-09-17 22:19:44]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.114           -3024.4314     26530.1        4.66260000 Fatih
+[2023-09-17 22:21:06]  Fatih
+[2023-09-17 22:21:06] 0 Fatih
+[2023-09-17 22:21:06] 0 Fatih
+[2023-09-17 22:29:07] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -3024.4314 kullanici:  Fatih
+[2023-09-17 22:29:07]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.114           -3024.4314     26530.1        5.60591220 Fatih
+[2023-09-17 22:30:39] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -3024.4314 kullanici:  Fatih
+[2023-09-17 22:30:41]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.114           -3024.4314     26530.1        5.79482899 Fatih
+[2023-09-19 20:31:29]  Fatih
+[2023-09-19 20:31:29] 0 Fatih
+[2023-09-20 21:44:09] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:44:09] 0 Fatih
+[2023-09-20 21:44:09] 0 Fatih
+[2023-09-20 21:44:45] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:44:45] 0 Fatih
+[2023-09-20 21:44:45] 0 Fatih
+[2023-09-20 21:45:19] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:45:19] 0 Fatih
+[2023-09-20 21:45:19] 0 Fatih
+[2023-09-20 21:45:55] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:45:55] 0 Fatih
+[2023-09-20 21:45:55] 0 Fatih
+[2023-09-20 21:46:29] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:46:29] 0 Fatih
+[2023-09-20 21:46:29] 0 Fatih
+[2023-09-20 21:46:37] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.209.19 Fatih
+[2023-09-20 21:46:37] 0 Fatih
+[2023-09-20 21:46:37] 0 Fatih
+[2023-09-20 22:03:23]  Fatih
+[2023-09-20 22:03:23] 0 Fatih
+[2023-09-20 22:03:23] 0 Fatih
+[2023-09-23 22:42:18] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.215.205 Fatih
+[2023-09-23 22:42:18] 0 Fatih
+[2023-09-23 22:42:18] 0 Fatih
+[2023-09-23 22:44:12] APIError(code=-1130): Data sent for parameter 'limit' is not valid. Fatih
+[2023-09-23 22:44:12] 0 Fatih
+[2023-09-23 22:44:12] 0 Fatih
+[2023-09-23 22:44:28] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 212.253.215.205 Fatih
+[2023-09-23 22:44:28] 0 Fatih
+[2023-09-23 22:44:28] 0 Fatih
+[2023-09-23 22:53:15] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -560.9457000000001 kullanici:  Fatih
+[2023-09-23 22:53:16]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  ETHUSDT           0.215            348.20325     1619.55       -5.34920000
+1  BTCUSDT          -0.021           -560.94570     26711.7        2.34570000 Fatih
+[2023-09-23 23:01:46] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -372.302 kullanici:  Fatih
+[2023-09-23 23:01:46]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.014             -372.302     26593.0       -0.07560000 Fatih
+[2023-09-28 21:20:50] 'Close' Fatih
+[2023-09-28 21:20:50] 0 Fatih
+[2023-09-28 21:20:50] 0 Fatih
+[2023-09-28 21:23:14] APIError(code=-2015): Invalid API-key, IP, or permissions for action Fatih
+[2023-09-28 21:23:14] 0 Fatih
+[2023-09-28 21:23:14] 0 Fatih
+[2023-09-28 21:23:52] 'Close' Fatih
+[2023-09-28 21:23:52] 0 Fatih
+[2023-09-28 21:23:52] 0 Fatih
+[2023-09-28 21:27:26]  Fatih
+[2023-09-28 21:27:26] 0 Fatih
+[2023-09-28 21:27:26] 0 Fatih
+[2023-09-28 21:31:51]  Fatih
+[2023-09-28 21:31:51] 0 Fatih
+[2023-09-28 21:31:51] 0 Fatih
+[2023-09-30 16:42:46] APIError(code=-2015): Invalid API-key, IP, or permissions for action, request ip: 95.5.101.112 Fatih
+[2023-09-30 16:42:46] 0 Fatih
+[2023-09-30 16:42:46] 0 Fatih
+[2023-09-30 16:46:15]  Fatih
+[2023-09-30 16:46:15] 0 Fatih
+[2023-09-30 16:46:15] 0 Fatih
+[2023-09-30 19:48:59]  Fatih
+[2023-09-30 19:48:59] 0 Fatih
+[2023-09-30 19:48:59] 0 Fatih
+[2023-09-30 21:21:52]  Fatih
+[2023-09-30 21:21:52] 0 Fatih
+[2023-09-30 21:21:53] 0 Fatih
+[2023-10-08 14:33:12] 'Low' Fatih
+[2023-10-08 14:33:12] 0 Fatih
+[2023-10-08 14:33:12] 0 Fatih
+[2023-10-08 14:34:01] No axis named 1 for object type Series Fatih
+[2023-10-08 14:34:01] 0 Fatih
+[2023-10-08 14:34:01] 0 Fatih
+[2023-10-08 14:48:53]  Fatih
+[2023-10-08 14:48:53] 0 Fatih
+[2023-10-08 14:48:53] 0 Fatih
+[2023-10-08 14:50:03]  Fatih
+[2023-10-08 14:50:03] 0 Fatih
+[2023-10-08 14:50:03] 0 Fatih
+[2023-10-09 22:16:29]  Fatih
+[2023-10-09 22:16:29] 0 Fatih
+[2023-10-09 22:16:29] 0 Fatih
+[2023-10-09 22:17:12]  Fatih
+[2023-10-09 22:17:12] 0 Fatih
+[2023-10-09 22:17:12] 0 Fatih
+[2023-10-10 23:50:37]  Fatih
+[2023-10-10 23:50:37] 0 Fatih
+[2023-10-10 23:50:37] 0 Fatih
+[2023-10-14 10:42:57]  Fatih
+[2023-10-15 22:13:43] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -483.19199999999995 kullanici:  Fatih
+[2023-10-15 22:13:43]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.018             -483.192     26844.0       -3.89773602 Fatih
+[2023-10-16 22:00:14] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -791.5068 kullanici:  Fatih
+[2023-10-16 22:00:14]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.028            -791.5068     28268.1       -7.78400000 Fatih
+[2023-10-16 22:02:22] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -791.5068 kullanici:  Fatih
+[2023-10-16 22:02:23]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.028            -791.5068     28268.1       -6.60820083 Fatih
+[2023-10-16 22:06:09] BTCUSDT USDT paritesinde pozisyon açıldı! ** 
+ fiyat: -791.5068 kullanici:  Fatih
+[2023-10-16 22:06:09]     Symbol Position Amount  Position Amount USD Entry Price Unrealized Profit
+0  BTCUSDT          -0.028            -791.5068     28268.1      -12.58600000 Fatih
