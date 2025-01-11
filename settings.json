@@ -1,16 +1,16 @@
 {
     "BinanceKeys": {
-        "API_KEY":"5UXcEajl4LmB8sII7bqJ7ijVkWijmkdSsO1Urhwf4kWwmsO0X9mBAP3czOxMI5wF",
-        "API_SECRET":"EANhrJTosvDQ9OfE0HLlJlvYX5Jr3WqQyXMhtGWHYFWnnQShvM5HeWoDXfpOzLmh"
+        "API_KEY":"API_KEY",
+        "API_SECRET":"API_SECRET"
         },
     "options":{
         "defaultType":"future"
         },
     "mailInfo":{
-        "mailAddress":"fatideolmasa@outlook.com",
-        "password": "963001236Erdfth",
-        "sendTo": "fatideolmasa@outlook.com",
-        "sendToException": "fatideolmasa@outlook.com",
+        "mailAddress":"fatideolmasa@mailAddress.com",
+        "password": "password",
+        "sendTo": "fatideolmasa@mailAddress.com",
+        "sendToException": "fatideolmasa@mailAddress.com",
         "smtpServer": "smtp-mail.outlook.com",
         "port": 587
     }
